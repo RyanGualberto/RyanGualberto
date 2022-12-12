@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Atualmente estudando TypeScript.
-Pretendo me tornar desenvolvedor Fullstack especialista em JS.
+# Atualmente estudando TypeScript.
+# Pretendo me tornar desenvolvedor Fullstack especialista em JS.
 
 <div align="center">
   <a href="https://github.com/RyanGualberto">
