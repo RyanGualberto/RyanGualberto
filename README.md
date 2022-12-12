@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Atualmente estudando TypeScript
+Pretendo me tornar desenvolvedor Fullstack especialista em JS.
+
 <div align="center">
   <a href="https://github.com/RyanGualberto">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanGualberto&show_icons=true&theme=cobalt&include_all_commits=false&count_private=true"/>
