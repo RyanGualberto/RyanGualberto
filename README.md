@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Atualmente estudando TypeScript
+Atualmente estudando TypeScript.
 Pretendo me tornar desenvolvedor Fullstack especialista em JS.
 
 <div align="center">
