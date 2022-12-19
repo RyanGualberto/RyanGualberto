@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p> Atualmente estudando TypeScript. </p>
+<p> Atualmente estudando Type, Prisma e Docker. </p>
 <p> Pretendo me tornar desenvolvedor Fullstack especialista em JS. </p>
 
 <div align="center">
