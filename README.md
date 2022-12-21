@@ -1,7 +1,7 @@
-### Hi there 👋
+### HELLO, WELCOME TO MY GITHUB 👋
 
-<p> Atualmente estudando Type, Prisma e Docker. </p>
-<p> Pretendo me tornar desenvolvedor Fullstack especialista em JS. </p>
+<p> Currently studying Type, Prisma and Docker. </p>
+<p> I intend to become a Fullstack developer specializing in JS. </p>
 
 <div align="center">
   <a href="https://github.com/RyanGualberto">
