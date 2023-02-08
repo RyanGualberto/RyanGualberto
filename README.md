@@ -44,6 +44,8 @@
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />   
 <img align="center" alt="Ryan-Heroku" height="40" width="40"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+<img align="center" alt="Ryan-Docker" height="40" width="40"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <img align="center" alt="Ryan-git" height="40" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
    </div>
