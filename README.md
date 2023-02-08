@@ -1,6 +1,6 @@
 ### HELLO, WELCOME TO MY GITHUB 👋
 
-<p> Currently studying Type, Prisma and Docker. </p>
+<p> Currently studying TypeScript, GraphQl and Docker. </p>
 <p> I intend to become a Fullstack developer specializing in JS. </p>
 
 <div align="center">
